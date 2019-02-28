@@ -1,10 +1,10 @@
 # Disclaimer for the use of the Melon Protocol 
 
-Important Note: Please read this Disclaimer carefully before using the Melon Protocol. It is important to understand that downloading and operating the Melon software is entirely the user’s responsibility. Before downloading and using the software, it is important to make sure you have reviewed the code and understood the official documentation.
+Important Note: Please read this Disclaimer carefully before using the Melon Protocol (described sometimes as “watermelon” protocol) . It is important to understand that downloading and operating the Melon software is entirely the user’s responsibility. Before downloading and using the software, it is important to make sure you have reviewed the code (https://github.com/melonproject/protocol) and understood the official documentation.
 
 ## The Melon Protocol Deployment
 
-Melonport AG (the “Company”) has developed an experimental  peer to peer marketplace for investment strategies (the “Melon Protocol”) which enables users, who are willing to invest in crypto assets (“Investors”) and users which are willing to manage crypto assets (“Managers”) under smart-contract based rule-sets to interact (together the “Users”). The underlying software protocol (the “Software”) that governs the Melon Protocol, is developed and published under the GNU General Public License version 3 which forms an integral part of this Disclaimer (https://fsf.org/). 
+Melonport AG (the “Company”) has developed an experimental asset management protocol (the “Melon Protocol”) which enables users, who are willing to invest in crypto assets (“Investors”) and users which are willing to manage crypto assets (“Managers”) under smart-contract based rule-sets to interact (together the “Users”). The underlying software protocol (the “Software”) that governs the Melon Protocol, is developed and published under the GNU General Public License version 3 which forms an integral part of this Disclaimer (https://fsf.org/). 
 
 WHILE THE COMPANY DEVELOPED THE SOFTWARE, IT IS NOT INVOLVED IN THE OPERATION OF, NOR IN ANY WAY INVOLVED IN THE INTERACTIONS BETWEEN INVESTORS AND MANAGERS WITH THE SOFTWARE OR IN THE RELATIONSHIP BETWEEN INVESTORS AND MANAGERS.
 
@@ -52,3 +52,4 @@ NO UNLAWFUL ACTIVITIES: Using the Melon Protocol, respectively the Melon Platfor
 JURISDICTION: Any dispute between the Users and the Company, including its founders, representatives, employees and directors, shall be submitted to the exclusive jurisdiction of the competent Courts of Zug, Switzerland, with the exclusion of any other jurisdiction or arbitration. 
 
 GOVERNING LAW: This Disclaimer shall be governed by and construed and interpreted in accordance with the substantive laws of Switzerland, excluding the Swiss conflict of law rules. The United Nations Convention for the International Sales of Goods ("Vienna Sales Convention") is excluded.
+
